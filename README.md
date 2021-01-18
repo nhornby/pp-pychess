@@ -27,7 +27,5 @@ Available spots for each piece will be highlighted when clicked.
 
 "r" resets the game.
 "c" changes your color and resets the game.
-
-Note:
 Player types can be changed in main.py.
 New player types can be added to Player.py.
